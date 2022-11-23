@@ -1,0 +1,15 @@
+.box {
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  background-color: blueviolet;
+  width: 50px;
+  color: aliceblue;
+  text-align: center;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
